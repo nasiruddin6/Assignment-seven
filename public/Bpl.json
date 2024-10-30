@@ -1,0 +1,105 @@
+[
+    {
+      "id": 1,
+      "name": "Shakib Al Hasan",
+      "age": 30,
+      "zella": "Magura",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm leg spin",
+      "img": "https://i.ibb.co.com/XxTHH5d/Shakib-Al-Hasan.jpg",
+      "price": 1100000
+    },
+    {
+      "id": 2,
+      "name": "Tamim Iqbal",
+      "age": 29,
+      "zella": "Chattagram",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Null",  
+      "img": "https://i.ibb.co.com/TWjqCQX/tamim-iqbal.jpg",
+      "price": 1250000
+    },
+    {
+      "id": 3,
+      "name": "Mustafizur Rahman",
+      "age": 24,
+      "zella": "Khulna",
+      "role": "Bowler",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm fast",  
+      "img": "https://i.ibb.co.com/jfc8J7H/mosta.webp",
+      "price": 900000
+    },
+    {
+      "id": 4,
+      "name": "Mushfiqur Rahman",
+      "age": 32,
+      "zella": "Bogra",
+      "role": "Wicketkeeper",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",  
+      "img": "https://i.ibb.co.com/w4hJYDY/mushfiqur-rahim.webp",
+      "price": 1000000
+    },
+    {
+      "id": 5,
+      "name": "Mahmudullah Reyad",
+      "age": 33,
+      "zella": "Maymonshing",
+      "role": "All-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",  
+      "img": "https://i.ibb.co.com/17f8cyp/mahmudullah.jpg",
+      "price": 850000
+    },
+    {
+      "id": 6,
+      "name": "Litton Das",
+      "age": 26,
+      "zella": "Dinajpur",
+      "role": "Batsman",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm medium",  
+      "img": "https://i.ibb.co.com/KXrQfz0/liton.jpg",
+      "price": 950000
+    },
+
+    {
+      "id": 7,
+      "name": "Mashrafi mortaja",
+      "age": 28,
+      "zella": "Norail",
+      "role": "all-rounder",
+      "battingType": "Right-hand bat",
+      "bowlingType": "Right-arm leg spin",  
+      "img": "https://i.ibb.co.com/xJ4BsCj/mashrafi.jpg",
+      "price": 1000000
+    },
+
+    {
+      "id": 8,
+      "name": "Soumya Sarkar",
+      "age": 26,
+      "zella": "Shatkhira",
+      "role": "Batsman",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Null",   
+      "img": "https://i.ibb.co.com/vxBV9kF/soumya.webp",
+      "price":920000
+    },
+    {
+      "id": 9,
+      "name": "Taskin ahammad",
+      "age": 29,
+      "zella": "Dhaka",
+      "role": "Bowler",
+      "battingType": "Left-hand bat",
+      "bowlingType": "Left-arm orthodox",   
+      "img": "https://i.ibb.co.com/K20p129/Taskin-Ahmed-5.jpg",
+      "price":952000
+    }
+   
+  ]
+  
